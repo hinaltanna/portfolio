@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Hinal Tanna:
+Data Scientist</title>
+    <link>https://hinaltanna.github.io/portfolio/about/</link>
+    <description>Recent content in About Me on Hinal Tanna:
+Data Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://hinaltanna.github.io/portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNA Replication Timing and Stem Cell Potential of the Intestinal Epithelium</title>
+      <link>https://hinaltanna.github.io/portfolio/about/abstract/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>https://hinaltanna.github.io/portfolio/about/abstract/</guid>
+      <description>PhD Thesis, Hinal Tanna Abstract Eukaryotic DNA replication occurs in a mitotically inherited temporal order known as the replication timing program. Replication timing is regulated by the coordinated simultaneous firing of adjacent replication origins at the level of large chromosomal units called ‘replication domains’. The replication timing program is cell-type specific and in a close inter-dependent relationship with the sub-nuclear positioning of the DNA, the epigenetic landscape of the chromatin, and the gene expression profile.</description>
+    </item>
+    
+  </channel>
+</rss>
