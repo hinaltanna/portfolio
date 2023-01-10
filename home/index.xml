@@ -11,55 +11,55 @@ Data Scientist</description>
     <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate><atom:link href="https://hinaltanna.github.io/portfolio/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Data Scientist Jobs Project</title>
-      <link>https://hinaltanna.github.io/portfolio/home/work0/</link>
+      <link>https://hinaltanna.github.io/portfolio/home/overview/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://hinaltanna.github.io/portfolio/home/work0/</guid>
+      <guid>https://hinaltanna.github.io/portfolio/home/overview/</guid>
       <description>&lt;p&gt;&lt;strong&gt;An overview of my 5-part project to understand the UK data scientist jobs market&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Web Scraping</title>
-      <link>https://hinaltanna.github.io/portfolio/home/work1/</link>
+      <link>https://hinaltanna.github.io/portfolio/home/part1/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://hinaltanna.github.io/portfolio/home/work1/</guid>
+      <guid>https://hinaltanna.github.io/portfolio/home/part1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Scraping Glassdoor UK job listings using Selenium Webdriver&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data Enrichment, Cleaning &amp; Reduction</title>
-      <link>https://hinaltanna.github.io/portfolio/home/work2/</link>
+      <link>https://hinaltanna.github.io/portfolio/home/part2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://hinaltanna.github.io/portfolio/home/work2/</guid>
+      <guid>https://hinaltanna.github.io/portfolio/home/part2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Expanding existing data with information from a third-party and getting data analysis-ready&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Feature Engineering</title>
-      <link>https://hinaltanna.github.io/portfolio/home/work3/</link>
+      <link>https://hinaltanna.github.io/portfolio/home/part3/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://hinaltanna.github.io/portfolio/home/work3/</guid>
+      <guid>https://hinaltanna.github.io/portfolio/home/part3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Using regular expression-based text-analysis to create additional features&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Exploratory Data Analysis</title>
-      <link>https://hinaltanna.github.io/portfolio/home/work4/</link>
+      <link>https://hinaltanna.github.io/portfolio/home/part4/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://hinaltanna.github.io/portfolio/home/work4/</guid>
+      <guid>https://hinaltanna.github.io/portfolio/home/part4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary statistics and quick graphical representations using NumPy, pandas, matplotlib, seaborn and plotly&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hierarchical Clustering</title>
-      <link>https://hinaltanna.github.io/portfolio/home/work5/</link>
+      <link>https://hinaltanna.github.io/portfolio/home/part5/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://hinaltanna.github.io/portfolio/home/work5/</guid>
+      <guid>https://hinaltanna.github.io/portfolio/home/part5/</guid>
       <description>&lt;p&gt;&lt;strong&gt;A deep dive into clustering binary categorical variables&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
